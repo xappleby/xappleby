@@ -8,5 +8,5 @@
 
 **Mission:** collect as many skills in as little time as possible
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/xio-a-078a1724b/"> Let's connect on LinkedIn!</a>  
+📫 How to reach me: <a href="https://www.linkedin.com/in/xio-a-078a1724b/"> Let's connect on LinkedIn!</a>  
 
